@@ -11,11 +11,11 @@ Feel free to connect with me through [LinkedIn](www.linkedin.com/in/shriraj-vich
 
 
 ## 💻 Technologies I Work With:
-- **Languages**:![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=ffffff)    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=ffffff)
+- **Languages**:   ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=ffffff)    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=ffffff)  ![HTML](https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=HTML&logoColor=ffffff)    ![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=CSS&logoColor=ffffff) 
   
-- **Frameworks**: ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
+- **Frameworks**:    ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)  
   
-- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+- **Tools**:    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)    ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 
 
 ## 🏆 GitHub Trophy:
