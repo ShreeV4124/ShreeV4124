@@ -1,13 +1,28 @@
 ## 👋 Hi, I'm Shriraj Vichare!
-I'm a 3rd-year Computer Engineering student who loves **Data Science**, **Machine Learning**, **AI**, **Web Development**.
+I'm a **Computer Engineering** student passionate about **Data Science**, **AI**, and **Web Development**. I’m constantly exploring new technologies, building cool projects, and learning from real-world challenges.
 
-### 🚀 About Me
-- Passionate about solving problems using technology.
-- Exploring **AI**, **ML**, **Web Development**.
-- Always learning new things and working on cool projects.
+### 🚀 My Mission:
+- To solve meaningful problems using technology.
+- To push the boundaries of machine learning and AI.
+- Always curious, always learning.
 
-- 📬 You can reach me via [Email](mailto:vichareshriraj000@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shriraj-vichare-58baa4299).
+Feel free to connect with me through [LinkedIn](www.linkedin.com/in/shriraj-vichare-58baa4299) or [Email](vichareshriraj000@gmail.com)!
 
+
+
+## 💻 Technologies I Work With:
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=ffffff)
+- **Frameworks**: ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
+- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+
+
+## 🏆 GitHub Trophy:
+![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dark)
+
+
+
+## 🐍 Watch My Contributions:
+![snake](https://github.com/your-github-username/github-snake.svg)
 <!--
 **ShreeV4124/ShreeV4124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
