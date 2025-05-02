@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I'm Shriraj Vichare!
+I'm a 3rd-year Computer Engineering student who loves **Data Science**, **Machine Learning**, **AI**, **Web Development**, and creating realistic sketches as a hobby.
+
+### 🚀 About Me
+- Passionate about solving problems using technology.
+- Exploring **AI**, **ML**, **Web Development**.
+- Always learning new things and working on cool projects.
+
+- 📬 You can reach me via [Email](mailto:vichareshriraj000@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shriraj-vichare-58baa4299).
 
 <!--
 **ShreeV4124/ShreeV4124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
