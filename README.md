@@ -17,12 +17,12 @@ Feel free to connect with me through [LinkedIn](www.linkedin.com/in/shriraj-vich
 
 
 ## 🏆 GitHub Trophy:
-![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=ShreeV4124&theme=dark)
 
 
 
 ## 🐍 Watch My Contributions:
-![snake](https://github.com/your-github-username/github-snake.svg)
+![snake](https://github.com/ShreeV4124/github-snake.svg)
 <!--
 **ShreeV4124/ShreeV4124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
