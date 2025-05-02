@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Shriraj Vichare!
-I'm a 3rd-year Computer Engineering student who loves **Data Science**, **Machine Learning**, **AI**, **Web Development**, and creating realistic sketches as a hobby.
+I'm a 3rd-year Computer Engineering student who loves **Data Science**, **Machine Learning**, **AI**, **Web Development**.
 
 ### 🚀 About Me
 - Passionate about solving problems using technology.
