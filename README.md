@@ -21,25 +21,27 @@ Feel free to connect with me through [LinkedIn](www.linkedin.com/in/shriraj-vich
 
    ## 🚀 Tech Stack
 
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E77BB?style=for-the-badge&logo=seaborn&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/c/00599C" height="40" alt="C"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/java/007396" height="40" alt="Java"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React"/>
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="40" alt="Matplotlib"/>
+  <img src="https://cdn.simpleicons.org/seaborn/2E77BB" height="40" alt="Seaborn"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="scikit-learn"/>
+  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="Flask"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="Streamlit"/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.simpleicons.org/keras/D00000" height="40" alt="Keras"/>
+</p>
 
   
 - **Tools**:
