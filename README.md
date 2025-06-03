@@ -16,7 +16,7 @@ Feel free to connect with me through [LinkedIn](www.linkedin.com/in/shriraj-vich
   
 - **Frameworks**:
   
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)     ![React](https://img.shields.io/badge/React-FF6F00?style=for-the-badge&logo=react&logoColor=ffffff)    ![Keras](https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge&logo=react&logoColor=ffffff)    ![Scikitlearn](https://img.shields.io/badge/Scikitlearn-FF6F00?style=for-the-badge&logo=react&logoColor=ffffff)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)     ![React](https://img.shields.io/badge/React-FF6F00?style=for-the-badge&logo=react&logoColor=ffffff)    ![Keras](https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge&logo==keras&logoColor=ffffff)    ![Scikitlearn](https://img.shields.io/badge/Scikitlearn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=ffffff)
   
 - **Tools**:
   
