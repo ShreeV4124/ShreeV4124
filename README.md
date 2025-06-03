@@ -22,25 +22,28 @@ Feel free to connect with me through [LinkedIn](www.linkedin.com/in/shriraj-vich
    ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/c/00599C" height="40" alt="C"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/java/007396" height="40" alt="Java"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React"/>
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="40" alt="Matplotlib"/>
-  <img src="https://cdn.simpleicons.org/seaborn/2E77BB" height="40" alt="Seaborn"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="scikit-learn"/>
-  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="Flask"/>
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="Streamlit"/>
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch"/>
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow"/>
-  <img src="https://cdn.simpleicons.org/keras/D00000" height="40" alt="Keras"/>
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+
+  <!-- Libraries & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="90" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
 </p>
 
   
