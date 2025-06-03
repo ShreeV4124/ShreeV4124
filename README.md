@@ -41,10 +41,7 @@ Feel free to connect with me through [LinkedIn](www.linkedin.com/in/shriraj-vich
   
 - **Tools**:
   
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)    ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
-  https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white              https://img.shields.io/badge/-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white
-  https://img.shields.io/badge/-F37626?style=for-the-badge&logo=jupyter&logoColor=white          https://img.shields.io/badge/-000000?style=for-the-badge&logo=pycharm&logoColor=white
-
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)        ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)       ![Jupyter](https://img.shields.io/badge/-F37626?style=for-the-badge&logo=jupyter&logoColor=white)       ![PyCharm](https://img.shields.io/badge/-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
 
